@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @iBenCod
 - ⚡ Fun fact: ...
-- 📖 University student
+- 📖 University student --Information Systems 🧑‍💻
+- Skils
+- ة
+
 
 
 ## #30NitesOfCode:
