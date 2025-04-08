@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @iBenCod
 - ⚡ Fun fact: ...
 - 📖 University student --Information Systems 🧑‍💻
-- Skils
-- ة
+- Skils : Html, Python, Java, CSS, javascript,  SQL
 
 
 
