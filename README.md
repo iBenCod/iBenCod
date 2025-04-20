@@ -6,9 +6,8 @@
 
 
 ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@pepe07/30-nites-of-code)  
-  ![@pepe07 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=pepe07)
-<!---
+  [Check out my progress!](https://www.codedex.io/@BENCOD/30-nites-of-code)  
+  ![@BENCOD #30NitesOfCode](https://www.codedex.io/api/petStatus?user=BENCOD)<!---
 iBenCod/iBenCod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
