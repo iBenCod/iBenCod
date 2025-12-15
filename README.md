@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iBenCod
 - ⚡ Fun fact: ...
-- 📖 University student --Information Systems 🧑‍💻
+-Information Systems 🧑‍💻
 - Skils : Html, Python, Java,  SQL
 
 
