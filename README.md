@@ -22,7 +22,7 @@
 
 I'm Belal — a Frontend Developer who enjoys turning ideas into clean, functional interfaces. I build with **React**, **Vite**, and **Strapi**, and I'm always learning something new to sharpen my craft.
 
-**Skills:** JavaScript · HTML5 · CSS3 · React · Vite · Strapi · Git
+**Skills:** JavaScript · Python · HTML5 · CSS3 · React · Vite · Strapi · AWS · Docker · Git · Postman
 
 **Open to:** Entry‑level / Junior Frontend Developer roles &nbsp;•&nbsp; Freelance frontend work &nbsp;•&nbsp; Collaborative open‑source contributions
 
@@ -30,9 +30,17 @@ I'm Belal — a Frontend Developer who enjoys turning ideas into clean, function
 
 ## 🧩 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,react,vite,nodejs,git,github&theme=dark"/>
-</p>
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=js,python&theme=dark"/></p>
+
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark"/></p>
+
+**Backend & Databases**
+<p><img src="https://skillicons.dev/icons?i=nodejs,strapi&theme=dark"/></p>
+
+**Cloud, DevOps & Tooling**
+<p><img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman&theme=dark"/></p>
 
 <br/>
 
