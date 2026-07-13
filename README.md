@@ -30,7 +30,7 @@ I'm Belal — a Frontend Developer who enjoys turning ideas into clean, function
 
 **Skills:** JavaScript · HTML5 · CSS3 · React · Vite · Strapi · Git
 
-**Open to:** Entry‑level / Junior Frontend Developer roles &nbsp;•&nbsp; Freelance frontend work &nbsp;•&nbsp; Collaborative open‑source contributions
+**Open to:** Entry‑level / Junior Frontend Developer roles &nbsp;•&nbsp;  frontend work &nbsp;•&nbsp; Collaborative open‑source contributions
 
 <br/>
 
