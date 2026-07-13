@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:4F46E5,100:7C3AED&height=220&section=header&text=iBenCode&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%2B+Vite+%2B+Strapi;Always+Building%2C+Always+Learning" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Frontend+Developer;Always+Building%2C+Always+Learning" />
 
 <br/>
 
@@ -13,12 +13,6 @@
 
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/iBenCod"><img src="https://img.shields.io/badge/GitHub-4F46E5?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=iBenCod&label=Profile%20Views&color=6D28D9&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/iBenCod?label=Followers&style=flat-square&color=4F46E5&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/github/stars/iBenCod?label=Stars&style=flat-square&color=7C3AED&labelColor=1a1a2e"/>
 
 </div>
 
