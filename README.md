@@ -73,17 +73,20 @@ Full‑stack greeting card application with role‑based access — admins desig
 <img src="https://img.shields.io/badge/Claude_Code_%26_Cowork_Masterclass-2026-4F46E5?style=flat-square&labelColor=1a1a2e"/>
 </p>
 
+**AWS**
+<p><img src="https://img.shields.io/badge/AWS_Cloud_Practitioner_Essentials-In_Progress-7C3AED?style=flat-square&labelColor=1a1a2e"/></p>
+
 <br/>
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iBenCod&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=iBenCod&theme=tokyonight&hide_border=true&background=00000000"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iBenCod&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=iBenCod&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBenCod&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBenCod&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <br/>
@@ -91,7 +94,7 @@ Full‑stack greeting card application with role‑based access — admins desig
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=iBenCod&theme=discord&no-frame=true&column=7&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=iBenCod&theme=discord&column=7"/>
 </p>
 
 <br/>
