@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:4F46E5,100:7C3AED&height=220&section=header&text=Belal%20Waleed%20AlSabbagh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:4F46E5,100:7C3AED&height=220&section=header&text=iBenCode&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%2B+Vite+%2B+Strapi;Always+Building%2C+Always+Learning" />
 
@@ -30,7 +30,7 @@ I'm Belal — a Frontend Developer who enjoys turning ideas into clean, function
 
 **Skills:** JavaScript · HTML5 · CSS3 · React · Vite · Strapi · Git
 
-**Open to:** Entry‑level / Junior Frontend Developer roles &nbsp;•&nbsp;  frontend work &nbsp;•&nbsp; Collaborative open‑source contributions
+**Open to:** Entry‑level / Junior Frontend Developer roles &nbsp;•&nbsp; Freelance frontend work &nbsp;•&nbsp; Collaborative open‑source contributions
 
 <br/>
 
@@ -55,7 +55,6 @@ Full‑stack greeting card application with role‑based access — admins desig
 | **Stack** | React, Vite, Strapi, REST API |
 | **Access Model** | Role‑based — Admin & User |
 | **Auth** | Custom login/session flow |
-| **Repository** | [github.com/iBenCod/jeel-greeting-card-web](https://github.com/iBenCod/jeel-greeting-card-web) |
 
 </details>
 
@@ -63,7 +62,7 @@ Full‑stack greeting card application with role‑based access — admins desig
 
 ## 📜 Certifications
 
-**Riyad Bank**
+**Bank**
 <p><img src="https://img.shields.io/badge/Jeel_Program-2026-6D28D9?style=flat-square&labelColor=1a1a2e"/></p>
 
 **Udemy**
