@@ -105,10 +105,6 @@ Full‑stack greeting card application with role‑based access — admins desig
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iBenCod&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
 </p>
 
-<br/>
-
-## 🐍 Contribution Snake
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/iBenCod/iBenCod/output/github-contribution-grid-snake.svg"/>
 </p>
