@@ -47,7 +47,7 @@ I'm Belal — a Frontend Developer who enjoys turning ideas into clean, function
 ## 🚀 Featured Project
 
 <details open>
-<summary><b>Jeel Greeting Card Web</b></summary>
+<summary><b> Greeting Card Web</b></summary>
 <br/>
 
 Full‑stack greeting card application with role‑based access — admins design and create greeting cards, users log in and personalize a card by adding their own name.
