@@ -64,8 +64,8 @@ Full‑stack greeting card application with role‑based access — admins desig
 
 ## 📜 Certifications
 
-**Bank**
-<p><img src="https://img.shields.io/badge/Jeel_Program-2026-6D28D9?style=flat-square&labelColor=1a1a2e"/></p>
+** Training Technical Report**
+<p><img src="https://img.shields.io/badge/trining_Program-2026-6D28D9?style=flat-square&labelColor=1a1a2e"/></p>
 
 **Udemy**
 <p>
