@@ -22,7 +22,7 @@
 
 I'm Belal — an Information Systems graduate who enjoys working with data, backends, and APIs. I completed the Jeel Program at Riyad Bank, where I built a full-stack, role-based web application with a **Strapi** backend. I'm now learning **SQL** and **Python** to move into data engineering.
 
-**Skills:** SQL  · Python  · JavaScript · Strapi · REST APIs · Git  · Excel · PowerPoint
+**Skills:** SQL (learning) · Python (learning) · JavaScript · Strapi · REST APIs · Git · Excel · PowerPoint
 
 **Open to:** Entry‑level data engineering roles &nbsp;•&nbsp; Training programs in data engineering &nbsp;•&nbsp; Collaborative open‑source contributions
 
@@ -31,16 +31,13 @@ I'm Belal — an Information Systems graduate who enjoys working with data, back
 ## 🧩 Tech Stack
 
 **Data & Programming**
-<p>
-<img src="https://skillicons.dev/icons?i=python,js&theme=dark"/>
-<img src="https://img.shields.io/badge/SQL-Learning-4F46E5?style=flat-square&labelColor=1a1a2e"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=python,mysql,js&theme=dark"/></p>
 
 **Backend & APIs**
-<p><img src="https://skillicons.dev/icons?i=nodejs,strapi,postman&theme=dark"/></p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,strapi&theme=dark"/></p>
 
-**Cloud, DevOps & Tooling**
-<p><img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark"/></p>
+**Tools**
+<p><img src="https://skillicons.dev/icons?i=git,github&theme=dark"/></p>
 
 **Web Development (supporting)**
 <p><img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark"/></p>
@@ -76,9 +73,6 @@ Full‑stack greeting card application with role‑based access — admins desig
 <img src="https://img.shields.io/badge/Complete_Full--Stack_Web_Dev_Bootcamp-2026-4F46E5?style=flat-square&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/Claude_Code_%26_Cowork_Masterclass-2026-4F46E5?style=flat-square&labelColor=1a1a2e"/>
 </p>
-
-**AWS**
-<p><img src="https://img.shields.io/badge/AWS_Cloud_Practitioner_Essentials-In_Progress-7C3AED?style=flat-square&labelColor=1a1a2e"/></p>
 
 <br/>
 
@@ -118,9 +112,9 @@ Full‑stack greeting card application with role‑based access — admins desig
 ## 🎯 Current Focus
 
 ```yaml
-Learning:  [SQL, Python, AWS Cloud Practitioner]
+Learning:  [SQL, Python]
 Building:  [Backend and data projects, GitHub portfolio]
-Exploring: [Data pipelines (ETL), cloud data services]
+Exploring: [Data pipelines (ETL), data modeling]
 OpenTo:    [Entry-level data engineering roles and training programs]
 ```
 
@@ -128,7 +122,7 @@ OpenTo:    [Entry-level data engineering roles and training programs]
 
 ## 📬 Connect
 
-<a href="mailto:ebhajwais1@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:bhajwais11@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/iBenCod"><img src="https://img.shields.io/badge/GitHub-4F46E5?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
@@ -137,5 +131,4 @@ OpenTo:    [Entry-level data engineering roles and training programs]
 <i>"Building one feature at a time, one line of code at a time."</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:4F46E5,100:7C3AED&height=100&section=footer" width="100%"/>
-</div>ps://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:6D28D9&height=100&section=footer" width="100%"/>
 </div>
