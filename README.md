@@ -68,45 +68,6 @@ Full‑stack greeting card application with role‑based access — admins desig
 **Riyad Bank**
 <p><img src="https://img.shields.io/badge/Jeel_Program-2026-6D28D9?style=flat-square&labelColor=1a1a2e"/></p>
 
-**Udemy**
-<p>
-<img src="https://img.shields.io/badge/Complete_Full--Stack_Web_Dev_Bootcamp-2026-4F46E5?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Claude_Code_%26_Cowork_Masterclass-2026-4F46E5?style=flat-square&labelColor=1a1a2e"/>
-</p>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iBenCod&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=iBenCod&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBenCod&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=iBenCod&theme=discord&column=7"/>
-</p>
-
-<br/>
-
-## 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iBenCod&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/iBenCod/iBenCod/output/github-contribution-grid-snake.svg"/>
-</p>
-
 <br/>
 
 ## 🎯 Current Focus
