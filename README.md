@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:4F46E5,100:7C3AED&height=220&section=header&text=iBenCode&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer;Learning+SQL+%26+Python;Always+Building%2C+Always+Learning" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer;Always+Building%2C+Always+Learning" />
 
 <br/>
 
